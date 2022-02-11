@@ -8,4 +8,5 @@ This dataset provides health insurance coverage data for each state and the nati
 ``cat states.csv | python 22mapper.py > output2.txt``   
 ``cat states.csv | python 22mapper.py | sort | python 22reducer.py > output.txt``
 # Chart Title
-![image](https://user-images.githubusercontent.com/77811257/152592552-f47f05cb-70c8-450b-9a1c-19404cbf6678.png)
+![image](https://user-images.githubusercontent.com/77811257/153538675-30e81ed9-9741-43f8-9668-5ecfba416108.png)
+
