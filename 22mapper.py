@@ -10,4 +10,4 @@ for line in sys.stdin:
     State,Uninsured_Rate,Uninsured_Rate2,Uninsured_Rate_Change,Health_Insurance_Coverage_Change,Employer_Health_Insurance_Coverage,Marketplace_Health_Insurance_Coverage,Marketplace_Tax_Credits,Average_Monthly_Tax_Credit,State_Medicaid_Expansion,Medicaid_Enrollment,Medicaid_Enrollment,Medicaid_Enrollment_Change,Medicare_Enrollment = datalist
 
     # print intermediate key-value pairs to standard output
-    print(Uninsured_Rate_Change,"\t",1)
+    print(Uninsured_Rate_Change,"\t",State)
